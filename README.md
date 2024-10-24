@@ -1,5 +1,5 @@
 # Alzheimers Research
-Repository for Alzheimers Research. The research database includes 24 patent publications and 26 research papers.
+Repository for Alzheimers Research. The research database includes 24 patent publications [alzheimer patents](https://github.com/Bhaney44/Alzheimers-Research/tree/main/alzheimer-patents) and 26 research papers [alzheimer research](https://github.com/Bhaney44/Alzheimers-Research/tree/main/alzheimer-research).
 
 # Problem Statement
 
