@@ -1,5 +1,5 @@
 # Alzheimers Research
-Repository for Alzheimers Research. 
+Repository for Alzheimers Research. The research database includes 24 patent publications and 26 research papers.
 
 # Problem Statement
 
